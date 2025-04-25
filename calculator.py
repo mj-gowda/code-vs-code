@@ -20,3 +20,4 @@ if __name__ == "__main__":
     print("Current features: Addition, Subtraction")
     print("Example: 5 + 3 =", calc.add(5, 3))
     print("Example: 5 - 3 =", calc.subtract(5, 3))
+
